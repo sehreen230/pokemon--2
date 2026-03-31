@@ -1,3 +1,4 @@
+<img width="1440" height="600" alt="02_type_frequency" src="https://github.com/user-attachments/assets/9d24213b-ae39-4a0b-af7e-098ae2bd5032" />
 # ⚡ Pokémon Dataset Analysis & ML Predictor
 
 This project analyzes the stats and properties of 800 Pokémon and includes a Machine Learning model to predict whether a given Pokémon is "Legendary" or a regular Pokémon.
